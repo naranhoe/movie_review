@@ -13,6 +13,7 @@ gem 'better_errors', '~> 2.1', '>= 2.1.1'
 gem 'devise', '~> 3.5', '>= 3.5.6'
 gem 'paperclip', '~> 4.3', '>= 4.3.5'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem 'searchkick', '~> 1.2', '>= 1.2.1'
 
 group :development, :test do
   gem 'byebug'
